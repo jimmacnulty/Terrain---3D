@@ -2,4 +2,5 @@
 
 Demo : # https://omkardubas.github.io/Terrain--3D/
 
-Terrain generated based on random data. 
+Terrain generated based on random data using Three.js
+
